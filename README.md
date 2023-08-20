@@ -2,8 +2,8 @@
 <p>I'm Laza ,a back-end developer</p>
  How to reach me: <br>
  
-[Facebook](https://www.facebook.com/lazaniaina.r)
-
+<a href="https://www.facebook.com/lazaniaina.r">
+  <img align="left" alt="Laza's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a><br/>
 
 [![GitHub iampawan](https://img.shields.io/github/followers/laza-niaina?label=follow&style=social)](https://github.com/LeiamNashRebirth)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laza-niaina&label=Views&color=blue&style=plastic" alt="" /> </p>
