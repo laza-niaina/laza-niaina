@@ -24,6 +24,7 @@
 <img src="https://img.shields.io/badge/render-41d1a1?style=for-the-badge&logo=render&logoColor=white" alt="render"/>
  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java"/>
  <img src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus" alt="c++"/>
+ <img src="https://img.shields.io/badge/-ReactJs-4c768d?style=for-the-badge&logo=react" alt="react"/>
 </p>
 <br>
 
