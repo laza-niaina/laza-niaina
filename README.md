@@ -4,24 +4,25 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier&weight=500&pause=997&color=31CD1EE4&random=false&width=435&lines=laza%40github%3A+~%24echo+%22I'm+Laza%22;laza%40github+~%24echo+%22a+back-end+dev%22;laza%40github+~%24echo+%22interested+in%22;laza%40github+~%24echo+%22web+scraping%22;laza%40github+~%24echo+%22reverse+engineering%22)](https://git.io/typing-svg)
 
 </div>
-### 🛠️ Compétences
 
-#### 💻 Langages de programmation
+#### 🛠️ Skills
+
+#### 💻 Programming languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,java,python,cpp,kotlin,dart&perline=9&theme=dark" width="100%">
 </p>
 
-#### 🚀 Frameworks & Bibliothèques
+#### 🚀 Frameworks & Libraries
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,react,jquery,flutter,tailwind,fastapi&perline=8&theme=dark" width="100%">
 </p>
 
-#### 🗄️ Bases de données
+#### 🗄️ Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,planetscale&perline=4&theme=dark" width="100%">
 </p>
 
-#### 🛠️ Outils & Environnements
+#### 🛠️ Tools and Environments
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,npm,bootstrap,idea,androidstudio&perline=5&theme=dark" width="100%">
 </p>
