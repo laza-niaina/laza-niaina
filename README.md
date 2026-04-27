@@ -4,33 +4,28 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier&weight=500&pause=997&color=31CD1EE4&random=false&width=435&lines=laza%40github%3A+~%24echo+%22I'm+Laza%22;laza%40github+~%24echo+%22a+back-end+dev%22;laza%40github+~%24echo+%22interested+in%22;laza%40github+~%24echo+%22web+scraping%22;laza%40github+~%24echo+%22reverse+engineering%22)](https://git.io/typing-svg)
 
 </div>
+### 🛠️ Compétences
 
-<p align="center" style="gap:10px">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
- <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="js">
- <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery">
-<img src="https://img.shields.io/badge/Nodejs-4EA94B?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.Js">
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express js">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="Mysql">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PG">
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-<img src="https://img.shields.io/badge/python-043052?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/npm-cc3534?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
-<img src="https://img.shields.io/badge/git-202b33?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/render-41d1a1?style=for-the-badge&logo=render&logoColor=white" alt="Render">
- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
- <img src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus" alt="c++">
- <img src="https://img.shields.io/badge/-ReactJs-4c768d?style=for-the-badge&logo=react" alt="react">
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
- <img src="https://img.shields.io/badge/Font_Awesome-%23538DD7.svg?style=for-the-badge&logo=fontawesome&logoColor=white" alt="Font Awesome">
-<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI">
-<img src="https://img.shields.io/badge/planetscale-%23000000.svg?style=for-the-badge&logo=planetscale&logoColor=white" alt="PlanetScale">
+#### 💻 Langages de programmation
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,python,cpp,kotlin,dart&perline=9&theme=dark" width="100%">
 </p>
-<br>
+
+#### 🚀 Frameworks & Bibliothèques
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,react,jquery,flutter,tailwind,fastapi&perline=8&theme=dark" width="100%">
+</p>
+
+#### 🗄️ Bases de données
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,planetscale&perline=4&theme=dark" width="100%">
+</p>
+
+#### 🛠️ Outils & Environnements
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,npm,bootstrap,idea,androidstudio&perline=5&theme=dark" width="100%">
+</p>
+
 
 ### 📈 GitHub stats : 
 <p align="center">
