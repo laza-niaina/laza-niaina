@@ -1,79 +1,118 @@
 <div align="center">
 <h1>Hello There 👋🏻</h1>
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier&weight=500&pause=997&color=31CD1EE4&random=false&width=435&lines=laza%40github%3A+~%24echo+%22I'm+Laza%22;laza%40github+~%24echo+%22a+back-end+dev%22;laza%40github+~%24echo+%22interested+in%22;laza%40github+~%24echo+%22web+scraping%22;laza%40github+~%24echo+%22reverse+engineering%22)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=laza-niaina&style=flat-square&color=blue" alt="Profile Views">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier&weight=500&pause=997&color=31CD1EE4&random=false&width=435&lines=laza%40github%3A+~%24echo+%22I'm+Laza%22;laza%40github+~%24echo+%22a+back-end+dev%22;laza%40github+~%24echo+%22interested+in%22;laza%40github+~%24echo+%22web+scraping%22;laza%40github+~%24echo+%22reverse+engineering%22)](https://git.io/typing-svg)
 
 </div>
 
-#### 🛠️ Skills
+## About
 
-#### 💻 Programming languages
+I build backends, APIs, and CLI tools to understand how the web works behind the scene. I am a hands-on learner who loves taking things apart to see how they function.
+I'm a first-year (L1) computer science student at ENI Fianarantsoa, based in Antananarivo, Madagascar. My work mostly consists of personal experiments, including Node.js services, APIs, web scrapers, and CLI applications. I love testing new ideas and turning curiosity into functional software.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white">
+<img src="https://komarev.com/ghpvc/?username=laza-niaina&style=flat-square&color=blue" alt="Profile Views">
+
+---
+
+## Tech Stack
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,php,py,rust,go,c,cpp,kotlin,dart,java" />
 </p>
 
-#### 🚀 Frameworks & Libraries
+### Frontend
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white">
-  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
-  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,jquery,tailwind,bootstrap" />
 </p>
 
-#### 🗄️ Databases
+### Backend
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/-PlanetScale-000000?style=flat-square&logo=planetscale&logoColor=white">
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel" />
 </p>
 
-#### 🛠️ Tools and Environments
+### Databases
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white">
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/-IntelliJIDEA-000000?style=flat-square&logo=intellijidea&logoColor=white">
-  <img src="https://img.shields.io/badge/-AndroidStudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white">
+<p>
+  <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres,mongodb,planetscale" />
 </p>
 
-### 📈 GitHub stats :
+### Tooling
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=laza-niaina&theme=react-dark&hide_border=true&bg_color=020712&area=true" width="100%">
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,androidstudio,npm" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=laza-niaina&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=08EDFF1E&background=020625&ring=1321FE"><br>
-</p>
+
+### GitHub stats :
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://shivamani999.vercel.app/api/top-langs/?username=laza-niaina&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://shivamani999.vercel.app/api/top-langs/?username=laza-niaina&layout=compact&langs_count=8&hide_border=true&title_color=0F172A&text_color=475569&bg_color=FFFFFF&card_width=500"
+  />
+  <img
+    width="49%"
+    src="https://shivamani999.vercel.app/api/top-langs/?username=laza-niaina&layout=compact&langs_count=8&hide_border=true&title_color=0F172A&text_color=475569&bg_color=FFFFFF&card_width=500"
+    alt="Top Languages"
+  />
+</picture>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://shivamani999.vercel.app/api?username=laza-niaina&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500"/>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://shivamani999.vercel.app/api?username=laza-niaina&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0F172A&icon_color=7C3AED&text_color=475569&bg_color=FFFFFF&card_width=500"/>
+  <img
+    width="49%"
+    src="https://shivamani999.vercel.app/api?username=laza-niaina&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0F172A&icon_color=7C3AED&text_color=475569&bg_color=FFFFFF&card_width=500"
+    alt="GitHub Stats"/>
+</picture>
+</div>
 
 <div align="center">
- <h4> How to reach me : </h4>
-  <p align="center">
-  <a style="text-decoration: none; outline: none;" href="https://web.facebook.com/lazaniaina.r">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Facebook_icon_%28black%29.svg/250px-Facebook_icon_%28black%29.svg.png" width=54>
-  </a>
-  <a style="text-decoration: none; outline: none;" href="mailto:lazaniaina13@gmail.com">
-    <img src="https://cdn.icon-icons.com/icons2/652/PNG/512/gmail_icon-icons.com_59877.png" width=54>
-  </a>
-</p>
-</h2>
-</table>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-streak-stats-eight.vercel.app/?user=Shivamani999&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-streak-stats-eight.vercel.app/?user=Shivamani999&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180"
+  />
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=Shivamani999&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180"
+    width="100%"
+    alt="GitHub Streak Stats"
+  />
+</picture>
+</div>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laza-niaina/laza-niaina/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laza-niaina/laza-niaina/output/snake-light.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/laza-niaina/laza-niaina/output/snake-light.svg" />
+</picture>
+</div>
+
+## How to reach me :
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lazaniaina)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/lazaniaina.r)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lazaniaina13@gmail.com)
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4f46e5,100:312e81&height=120&section=footer&animation=fadeIn" width="100%" />
 </div>
